@@ -40,7 +40,7 @@ class HeaderWidget extends StatelessWidget {
               fontSize: 18.0,
             ),
           ),
-         
+             
            Text(
             'programacion movil',
             style: TextStyle(
@@ -50,7 +50,7 @@ class HeaderWidget extends StatelessWidget {
           ),
           SizedBox(height: 16.0), // Espacio entre el título y el contador
 
-          // Contador de estrellas
+         
           Row(
             children: [
               Icon(Icons.star, size: 20.0, color: Colors.red),
