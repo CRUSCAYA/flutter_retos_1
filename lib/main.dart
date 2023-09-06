@@ -53,7 +53,7 @@ class HeaderWidget extends StatelessWidget {
           Row(
             children: [
               Icon(Icons.star, size: 20.0, color: Colors.red),
-              SizedBox(width: 4.0), // Espacio entre el icono y el contador
+              SizedBox(width: 4.0),
               Text(
                 '5', // Reemplaza con el valor de tu contador
                 style: TextStyle(fontSize: 16.0),
