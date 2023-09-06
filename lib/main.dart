@@ -60,7 +60,7 @@ class HeaderWidget extends StatelessWidget {
               ),
             ],
           ),
-          SizedBox(height: 16.0), // Espacio entre el contador y las opciones
+          SizedBox(height: 16.0), 
 
           // Opciones de Call, Route y Share
           Row(
