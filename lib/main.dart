@@ -93,7 +93,7 @@ class HeaderWidget extends StatelessWidget {
                   IconButton(
                     icon: Icon(Icons.share),
                     onPressed: () {
-                      // Lógica para compartir
+                    
                     },
                   ),
                   Text('Share'),
