@@ -48,8 +48,7 @@ class HeaderWidget extends StatelessWidget {
               fontSize: 18.0,
             ),
           ),
-          SizedBox(height: 16.0), // Espacio entre el título y el contador
-
+          SizedBox(height: 16.0),
          
           Row(
             children: [
